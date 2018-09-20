@@ -1,0 +1,9 @@
+.galerie {
+    display: flex;
+
+    &__photo {
+        width: 100%;
+        height: 26rem;
+        display: block;
+    }
+}
